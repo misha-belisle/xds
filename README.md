@@ -25,3 +25,5 @@ resource counters - class, money, expendables, hold max amount of items (99?)
 grid, positions (stuff on grid), actions
 later: terain mod; destruction
 */
+
+Hello World
